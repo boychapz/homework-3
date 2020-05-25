@@ -1,4 +1,4 @@
-# homework-3
+# Password Generator
 
 Password generator it creates a password with max length of 20 characters.
 password consist of random numbers between 1 - 10, special characters, upper and lower case characters(letters)
